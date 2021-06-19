@@ -1,2 +1,4 @@
-# anti-ip-grabber
-This is a filter list that you can add to your adblocker to prevent your ip from being grabbed
+# Installation
+To install simply paste the contexts of `anti-ip-grabber.txt` into your adblocker's filter list.
+
+
