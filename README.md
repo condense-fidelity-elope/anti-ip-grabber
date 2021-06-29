@@ -1,7 +1,6 @@
-# Installation
->To install simply paste the contexts of `anti-ip-grabber.txt` into your adblocker's filter list.
+# How to use
 
-You can find how to do this online, there thousands of ad blockers out there so I cannot write the instructions for every single one.
+[Add to your adblocker](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/sheeblou/anti-ip-grabber/main/anti-ip-grabber.txt&title=AntiGrabber)
 
-Credit to https://github.com/Konnor88/anti-grabify for the URLs
+*Credit to https://github.com/Konnor88/anti-grabify for the URLs*
 
