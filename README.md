@@ -4,5 +4,5 @@
 
 I have found that this only works with [Ublock Origin](https://ublockorigin.com/)
 
-*Credit to https://github.com/Konnor88/anti-grabify for the URLs*
+*Credit to https://github.com/Konnor88/anti-grabify for some the URLs*
 
